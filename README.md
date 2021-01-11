@@ -1,30 +1,29 @@
-# hello-express
+# EconomyBot
+**This Economy bot was created by 0_0#6666**
 
-A server that serves a webpage, its resources, and some data
+**IN BOTCONFIG.JSON DO NOT CHANGE ANY VARIABLE THE CountChannel var is for if you want to set a channel to count for users if not just leave it blank AND EVERYTHING ELSE IS SELF EPLAINATORY JUST CHANGE THE VALUES 
+INSIDE "" TO MAKE YOUR BOT FUNCTION PROPERLY!**
+# Links
+- 🔗 [Youtube Channel](https://www.youtube.com/channel/UCF9E-xef9jL9QgziZRDHKKQ)
+- [Support Server Link](https://discord.gg/REAW5VM)
+# Copyright 
+Copyright 2020 © All RIghts are Reserved | If you are using any part of code please give me credits for the same. Thanks
 
+# License
+**nginx 2020 all rights reserved**
 
-## Your Project
+**NOTE FOR GLITCH HOSTERS 
+`` THIS BOT DOES NOT DIE IT SENDS A HEARTBEAT (PING) EVERY 5 MINS TO THE GLITCH PROJECT SO THAT YOUR PROJECT STAYS ALIVE IF IT DOES NOT WORK FOR YOU THEN 
+DM ME FOR A SCRIPT THAT PREVENTS THIS JOIN THE SERVER ABOVE AND DM  ME @0_0#6666 THIS MIGHT GET YOUR PROJECT SUSPENDED BUT YOU CAN ALWAYS
+MAKE A NEW ONE USING MY TUTORIAL :D``**
+``IT WORKS ON REPL.IT PRETTY FINE ITS BEEN TESTED ALREADY``
 
-On the front-end,
+# Host On Repl.it
+[![Use on Repl.it](https://repl.it/badge/github/ZeroDiscord/EconomyBot)](https://repl.it/github/ZeroDiscord/EconomyBot)
+# Host On Glitch 
+[Click Here to Host On Glitch](https://glitch.com/edit/#!/import/git?url=https://github.com/ZeroDiscord/EconomyBot/)
 
-- Edit `views/index.html` to change the content of the webpage
-- `public/client.js` is the javacript that runs when you load the webpage
-- `public/style.css` is the styles for `views/index.html`
-- Drag in `assets`, like images or music, to add them to your project
-
-On the back-end,
-
-- your app starts at `server.js`
-- add frameworks and packages in `package.json`
-- safely store app secrets in `.env` (nobody can see this but you and people you invite)
-
-Click `Show` in the header to see your app live. Updates to your code will instantly deploy.
-
-
-## Made by [Glitch](https://glitch.com/)
-
-**Glitch** is the friendly community where you'll build the app of your dreams. Glitch lets you instantly create, remix, edit, and host an app, bot or site, and you can invite collaborators or helpers to simultaneously edit code with you.
-
-Find out more [about Glitch](https://glitch.com/about).
-
-( ᵔ ᴥ ᵔ )
+# Dependencies 
+*Discord.js v12
+*quick.db
+*quick.eco
